@@ -4,7 +4,7 @@ Nama : Ilham Yusuf Wi'am <br>
 NIM : 24/539979/TK/59890 <br>
 Prodi : Teknik Elektro <br>
 
-Alur Kode : <br>
+<p>Alur Kode : <br>
 A. Deklarasi Variabel <br>
     1. Variabel celcius untuk menyimpan nilai suhunya(dalam celcius), memakai float karena akan memakai koma juga <br>
     2. Variabel pilihan untuk menyimpan pilihan konversi suhu yang akan dipakai <br>
@@ -21,3 +21,4 @@ D. Switch-case <br>
 E. Menampilkan Hasil <br>
     Hasil berupa konversi suhu dari celcius ke pilihan konversi suhu atau tidak valid <br>
 F. Program Selesai
+</p>
